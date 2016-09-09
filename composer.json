@@ -1,5 +1,5 @@
 {
-    "name": "brianV/simplesamlphp-module-redis",
+    "name": "brianv/simplesamlphp-module-redis",
     "description": "A SimpleSAMLphp module for using Redis for session storage etc.",
     "type": "simplesamlphp-module",
     "keywords": ["redis", "store", "simpleSAMLphp"],
